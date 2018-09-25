@@ -28,4 +28,4 @@ $ git push
 
 8. Update the readme file with a description of your project so that future employers or other students know what your objective for this project was. 
 
-9. click on the index.html file within github. Copy the URL from the address bar. Navigate to: https://htmlpreview.github.io/ and place the index.html url into the address bar and click the next button. Once the page loads, copy the URL and paste it into the project submit page on canvas. 
+9. Please follow the submission guideline for this project.
