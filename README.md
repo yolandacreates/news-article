@@ -3,7 +3,9 @@ Use HTML, and Internal CSS to replicate this article as closely as possible. The
 
 ## Getting Started
 1. Navigate to your htdocs folder (where we will be placing assignments).
+``
 $ cd /applications/mamp/htdocs
+``
 
 2. Clone the news-article assignment into your htdocs folder with the following command:
 $ git clone https://github.com/SJCCodeTalk/news-article.git
