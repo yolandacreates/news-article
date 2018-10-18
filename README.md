@@ -4,46 +4,47 @@ Use HTML, and Internal CSS to replicate this article as closely as possible. The
 ## Getting Started
 1. Navigate to your htdocs folder (where we will be placing assignments).
 
-``
+```
 $ cd /applications/mamp/htdocs
-``
+```
 
 2. Clone the news-article assignment into your htdocs folder with the following command:
 
-``
+```
 $ git clone https://github.com/SJCCodeTalk/news-article.git
-``
+```
 
 3. Change your directory to the project folder.
-``
+```
 $ cd news-article
-``
+```
 
-4. Navigate to github.com's main page and select "Start a project". Name your project "news-article" and select, "Create repository."
+4. Remove Codetalk as the origin of the project with the following command.
+```
+$ git remote rm origin
+```
 
-5. Change the remote origin of your project from the SJC project to your personal project
-$ git remote set-url origin https://github.com/[user]/news-article.git
-NOTE: change [user] to your username
+5. Navigate to github.com's main page and select "Start a project". Name your project "news-article" and select, "Create repository." Copy and paste the commands from the following page to get your repository connected.
 
 6. Create your project
 
 7. Upload your project by taking the following steps
 
-``
+```
 $ git add .
-``
+```
 
 NOTE: "." is a wildcard meaning add all changes that have happened rather than stating one specific file. 
 
-``
-$ git commit -m"add message here"
-``
+```
+$ git commit -m "add message here"
+```
 
 NOTE: "add message here" should be updated to give a description as to what you did, such as, "completed assignment", "updated readme", "made changes to header"
 
-``
+```
 $ git push
-``
+```
 
 8. Update the readme file with a description of your project so that future employers or other students know what your objective for this project was. 
 
