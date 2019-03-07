@@ -5,7 +5,7 @@ Use HTML, and Internal CSS to replicate this article as closely as possible. The
 1. Navigate to your htdocs folder (where we will be placing assignments).
 
 ```
-$ cd /applications/mamp/htdocs
+$ cd /users/codetalk/desktop/class-projects
 ```
 
 2. Clone the news-article assignment into your htdocs folder with the following command:
@@ -24,7 +24,7 @@ $ cd news-article
 $ git remote rm origin
 ```
 
-5. Navigate to github.com's main page and select "Start a project". Name your project "news-article" and select, "Create repository." Copy and paste the commands from the following page to get your repository connected.
+5. Navigate to github.com's main page and select "Start a project". Name your project "news-article" and select, "Create repository." Copy and paste the commands from the page into terminal to connect your news-article folder to github.
 
 6. Create your project
 
