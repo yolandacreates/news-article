@@ -2,7 +2,7 @@
 Use HTML, and Internal CSS to replicate this article as closely as possible. The paragraph text used is Lorem Ipsum and doesn't need to be the same. You can generate your own Lorem Ipsum text by going to: http://www.lipsum.com/ (Links to an external site.)Links to an external site. scroll down the page and you will see the link to generate paragraphs. Once you have created them, copy the paragraphs and paste them into your paragraph tags. 
 
 ## Getting Started
-1. Navigate to your htdocs folder (where we will be placing assignments).
+1. Navigate to your class-projects folder (where we will be placing assignments).
 
 ```
 $ cd /users/codetalk/desktop/class-projects
