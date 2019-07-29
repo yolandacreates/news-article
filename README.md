@@ -5,10 +5,10 @@ Use HTML, and Internal CSS to replicate this article as closely as possible. The
 1. Navigate to your class-projects folder (where we will be placing assignments).
 
 ```
-$ cd /users/codetalk/desktop/class-projects
+$ cd /users/[user-name]/desktop/class-projects
 ```
 
-2. Clone the news-article assignment into your htdocs folder with the following command:
+2. Clone the news-article assignment into your class-projects folder with the following command:
 
 ```
 $ git clone https://github.com/SJCCodeTalk/news-article.git
